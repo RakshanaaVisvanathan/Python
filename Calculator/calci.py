@@ -162,4 +162,3 @@ equal = Button(tk, button_params_main, text='=',
 
 
 tk.mainloop()
-
