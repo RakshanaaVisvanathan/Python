@@ -1,6 +1,6 @@
 from tkinter import Tk,Entry,Button,StringVar
 import math
-import numpy as np
+
 
 #FUNCTIONS
 
